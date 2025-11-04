@@ -1,0 +1,5 @@
+mountpoints:
+  /: https://drive.google.com/drive/folders/1tHByt2WFJLVisIZjoLzH2GmUb135XfRU
+  # Example for SharePoint:
+  # /: https://contoso.sharepoint.com/:f:/r/sites/YourSite/Shared%20Documents/website
+
